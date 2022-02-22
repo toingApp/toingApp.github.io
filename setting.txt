@@ -1,1 +1,3 @@
 server|https://apptoing.ml
+versionCurrent|0
+versionUpdate|1
