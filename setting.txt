@@ -1,2 +1,2 @@
 server|https://apptoing.ml
-version|1
+version|7
