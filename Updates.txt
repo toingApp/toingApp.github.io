@@ -1,1 +1,2 @@
 preferens|style|titleColor|#ffff0000|
+download|https://toingApp.github.io/files/list_radar.txt|Antenas/list_radar.txt|not|
