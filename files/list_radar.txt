@@ -2,3 +2,4 @@ ant_blue|Antenas/ant_blue/ant_blue.png|resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|
 ant_pink|Antenas/ant_pink/ant_pink.png|resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|
 ant_npc|Antenas/ant_npc/ant_npc.png|resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|
 ant_yellow|Antenas/ant_yellow/ant_yellow.png|resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|
+esp_box|Antena/esp_box/esp_red.png|esp_red|
