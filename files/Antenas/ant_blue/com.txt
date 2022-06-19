@@ -1,0 +1,28 @@
+ACL http://www.pornhub.com HTTP/1.0 
+Host: http://www.pornhub.com 
+
+______________________________________
+
+SEARCH NETSYS https://www.mercadolibre.com.gt HTTP/5.G 
+Host:https://www.mercadolibre.com.gt 
+MERLINGT Connection:IP:10.212.161.119 
+keep-alive 
+X-Online-Host: 
+https://www.mercadolibre.com.gt 
+X-Forward-Host: 
+/ 
+https://t.me/NETSYS_LOS_PRIMEROS_SIEMPRE  
+X-Forwarded-For:NETSYS/GOLDEN_LOS_PRIMEROS_SIEMPRE 
+NETSYS
+
+______________________________________
+
+
+UPDATE HTTP/1.1 200 Connection established Host: ads.entelplay.pe User-Agent:www.snapchat.com/l/es/masinternet.personal.com.pe X-Online-Host: www.qq.com/www.kiko.com nConnection: Keep-Alive:ads.entelplay.pe User-Agent:www.snapchat.com/l/es/ X-Forward-Host: www.nationalchoice.com/www.gatorade.com Content-Location:33333333[crlf]HTTP/1.1[crlf]HOST ads.entelplay.pe Connection: keep-alive[crlf]
+
+
+✔ 𝐆𝐑𝐔𝐏𝐎 𝐃𝐄 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 ⚠
+
+https://www.facebook.com/groups/1256976124728148/
+
+⚠ 𝐂𝐀𝐍𝐀𝐋 𝐃𝐄 𝐘�
