@@ -4,4 +4,4 @@ download|https://toingApp.github.io/files/Antenas/ant_blue/resconf.UJxBmYOpolKAL
 download|https://toingApp.github.io/files/Antenas/ant_pink/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|Antenas/ant_pink/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|not|
 download|https://toingApp.github.io/files/Antenas/ant_yellow/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|Antenas/ant_yellow/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|not|
 download|https://toingApp.github.io/files/Antenas/ant_npc/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|Antenas/ant_npc/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|not|
-download|https://toingApp.github.io/files/Antenas/esp_box/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|Antenas/esp_box/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|not|
+download|https://toingApp.github.io/files/Antenas/esp_box/85fe1f1c203d9004b964f24a1d940367|Antenas/esp_box/85fe1f1c203d9004b964f24a1d940367|not|
