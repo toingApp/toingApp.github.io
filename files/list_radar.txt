@@ -2,4 +2,4 @@ data|antena blue|Antenas/ant_blue|data/com.dts.freefireth/files/contentcache/Com
 data|antena pink|Antenas/ant_pink|data/com.dts.freefireth|resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|
 data|antena npc|Antenas/ant_npc|data/com.dts.freefireth|resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|
 data|antena yellow|Antenas/ant_yellow|data/com.dts.freefireth|resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|
-obb|esp box|Antenas/esp_box|com.dts.freefireth|main.2019115204.com.dts.freefireth.obb|
+obb|esp box|Antenas/esp_box|com.dts.freefiremax|main.2019112741.com.dts.freefiremax.obb|
