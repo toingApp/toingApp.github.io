@@ -1,7 +1,7 @@
 preferens|style|titleColor|#ffff00ff|
-download|https://toingApp.github.io/files/list_radar.txt|Antenas/list_radar.txt|not|
-download|https://toingApp.github.io/files/Antenas/ant_blue/resconf.UJxBmYOpolKALQXb7bXRfU1Z3Hs~3D|Antenas/ant_blue/resconf.UJxBmYOpolKALQXb7bXRfU1Z3Hs~3D|not|
-download|https://toingApp.github.io/files/Antenas/ant_pink/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|Antenas/ant_pink/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|not|
-download|https://toingApp.github.io/files/Antenas/ant_yellow/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|Antenas/ant_yellow/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|not|
-download|https://toingApp.github.io/files/Antenas/ant_npc/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|Antenas/ant_npc/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|not|
-download|https://toingApp.github.io/files/Antenas/esp_box/85fe1f1c203d9004b964f24a1d940367|Antenas/esp_box/85fe1f1c203d9004b964f24a1d940367|not|
+download|https://toingApp.github.io/files/list_com.dts.freefireth.txt|Antenas/list_com.dts.freefireth.txt|not|
+download|https://toingApp.github.io/files/Antenas/com.tds.freefireth/ant_blue/resconf.UJxBmYOpolKALQXb7bXRfU1Z3Hs~3D|Antenas/com.tds.freefireth/ant_blue/resconf.UJxBmYOpolKALQXb7bXRfU1Z3Hs~3D|not|
+download|https://toingApp.github.io/files/Antenas/com.tds.freefireth/ant_pink/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|Antenas/com.tds.freefireth/ant_pink/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|not|
+download|https://toingApp.github.io/files/Antenas/com.tds.freefireth/ant_yellow/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|Antenas/com.tds.freefireth/ant_yellow/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|not|
+download|https://toingApp.github.io/files/Antenas/com.tds.freefireth/ant_npc/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|Antenas/com.tds.freefireth/ant_npc/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|not|
+download|https://toingApp.github.io/files/Antenas/com.tds.freefireth/esp_box/85fe1f1c203d9004b964f24a1d940367|Antenas/com.tds.freefireth/esp_box/85fe1f1c203d9004b964f24a1d940367|not|
