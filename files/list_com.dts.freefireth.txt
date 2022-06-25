@@ -1,5 +1,4 @@
-data|antena blue|Antenas/com.dts.freefireth/ant_blue|data/com.dts.freefireth/files/contentcache/Compulsory/android/gameassetbundles/config|resconf.UJxBmYOpolKALQXb7bXRfU1Z3Hs~3D|
-data|antena pink|Antenas/com.dts.freefireth/ant_pink|data/com.dts.freefireth|resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|
-data|antena npc|Antenas/com.dts.freefireth/ant_npc|data/com.dts.freefireth|resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|
-data|antena yellow|Antenas/com.dts.freefireth/ant_yellow|data/com.dts.freefireth|resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|
+data|antena blue|Antenas/com.dts.freefireth/ant_blue|data/com.dts.freefireth/files/contentcache/Compulsory/android/gameassetbundles/config|resconf.mm4kXM4Of0pVL~2B54ROQUYvEmyDs~3D|
+data|antena pink|Antenas/com.dts.freefireth/ant_pink|data/com.dts.freefireth/files/contentcache/Compulsory/android/gameassetbundles/config|resconf.mm4kXM4Of0pVL~2B54ROQUYvEmyDs~3D|
+data|antena yellow|Antenas/com.dts.freefireth/ant_yellow|data/com.dts.freefireth/files/contentcache/Compulsory/android/gameassetbundles/config|resconf.mm4kXM4Of0pVL~2B54ROQUYvEmyDs~3D|
 obb|esp box|Antenas/com.dts.freefireth/esp_box|com.dts.freefireth|main.2019115204.com.dts.freefireth.obb|
