@@ -1,3 +1,3 @@
 data|antena blue|Antenas/com.dts.freefiremax/ant_blue|data/com.dts.freefiremax/files/contentcache/Compulsory/android/gameassetbundles/config|resconf.6O5XePElT42br1J9StyuhvgJ~2FHs~3D|
 data|antena pink|Antenas/com.dts.freefiremax/ant_pink|data/com.dts.freefiremax/files/contentcache/Compulsory/android/gameassetbundles/config|resconf.6O5XePElT42br1J9StyuhvgJ~2FHs~3D|
-obb|esp box|Antenas/com.dts.freefiremax/esp_box|com.dts.freefiremax|main.2019112741.com.dts.freefiremax.obb|
+obb|esp box (blackList)|Antenas/com.dts.freefiremax/esp_box|com.dts.freefiremax|main.2019112741.com.dts.freefiremax.obb|
