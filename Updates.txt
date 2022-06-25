@@ -7,4 +7,4 @@ download|https://toingApp.github.io/files/Antenas/com.dts.freefireth/ant_yellow/
 download|https://toingApp.github.io/files/Antenas/com.dts.freefireth/ant_npc/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|Antenas/com.dts.freefireth/ant_npc/resconf.DzGJQneTSqIz1kfCmnOkyPcuSHw~3D|not|
 download|https://toingApp.github.io/files/Antenas/com.dts.freefireth/esp_box/85fe1f1c203d9004b964f24a1d940367|Antenas/com.dts.freefireth/esp_box/85fe1f1c203d9004b964f24a1d940367|not|
 download|https://toingApp.github.io/files/Antenas/com.dts.freefiremax/esp_box/85fe1f1c203d9004b964f24a1d940367|Antenas/com.dts.freefiremax/esp_box/85fe1f1c203d9004b964f24a1d940367|not|
-preferens|app|version|1|
+preferens|app|version|2|
