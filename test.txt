@@ -1,1 +1,2 @@
-add|Antenas/list_com.dts.freefireth.txt|
+add|Antenas/list_com.dts.freefireth.txt|data*antena blue*Antenas/com.dts.freefireth/ant_blue*data/com.dts.freefireth/files/contentcache/Compulsory/android/gameassetbundles/config*resconf.mm4kXM4Of0pVL~2B54ROQUYvEmyDs~3D*|
+
