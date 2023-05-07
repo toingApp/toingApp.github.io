@@ -36,6 +36,6 @@ wb:setBackgroundColor(0x0000ff00)
 
 texte = "<html><head><style> body, html{background:transparent;}</style></head><body><div align='center'><marquee>GT TUNNEL SIEMPRE LO MEJOR</marquee></div></body></html>"
 texts =""
-wb:loadData(texts)
+wb:loadData(texte)
 
 Lin:addView(wb)
