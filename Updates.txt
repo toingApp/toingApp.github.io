@@ -8,5 +8,5 @@ download|https://toingApp.github.io/files/Antenas/com.dts.freefireth/esp_box/85f
 download|https://toingApp.github.io/files/Antenas/com.dts.freefiremax/esp_box/85fe1f1c203d9004b964f24a1d940367|Antenas/com.dts.freefiremax/esp_box/85fe1f1c203d9004b964f24a1d940367|not|
 download|https://toingApp.github.io/files/Antenas/com.dts.freefiremax/ant_blue/resconf.6O5XePElT42br1J9StyuhvgJ~2FHs~3D|Antenas/com.dts.freefiremax/ant_blue/resconf.6O5XePElT42br1J9StyuhvgJ~2FHs~3D|not|
 download|https://toingApp.github.io/files/Antenas/com.dts.freefiremax/ant_pink/resconf.6O5XePElT42br1J9StyuhvgJ~2FHs~3D|Antenas/com.dts.freefiremax/ant_pink/resconf.6O5XePElT42br1J9StyuhvgJ~2FHs~3D|not|
-preferens|app|version|4|
+preferens|app|version|5|
 download|https://toingApp.github.io/files/one.lua|one.lua|not|
