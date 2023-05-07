@@ -20,7 +20,7 @@ WebView = luajava.bindClass("android.webkit.WebView")
 WebViewClient = luajava.bindClass("android.webkit.WebViewClient")
 wb = WebView.new(activit)
 LinearLayout = luajava.bindClass("android.widget.LinearLayout")
-pr = LinearLayout.LayoutParams.new(LinearLayout.LayoutParams.FILL_PARENT, 500)
+pr = LinearLayout.LayoutParams.new(LinearLayout.LayoutParams.FILL_PARENT, 50)
 
 wc = WebViewClient.new()
 wst = wb:getSettings()
@@ -32,9 +32,10 @@ wst:setBuiltInZoomControls(true);
 wst:setSaveFormData(true)
 wb:setWebViewClient(wc)
 wb:setLayoutParams(pr)
+wb:setBackgroundColor(0x0000ff00)
 
-texte = "https://www.hlsplayer.org/action?url=https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8"
+texte = "<html><head><style> body, html{background:transparent;}</style></head><body><div align='center'><marquee>GT TUNNEL SIEMPRE LO MEJOR</marquee></div></body></html>"
 texts =""
-wb:loadUrl(texts)
+wb:loadData(texts)
 
 Lin:addView(wb)
