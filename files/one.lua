@@ -20,7 +20,7 @@ WebView = luajava.bindClass("android.webkit.WebView")
 WebViewClient = luajava.bindClass("android.webkit.WebViewClient")
 wb = WebView.new(activit)
 LinearLayout = luajava.bindClass("android.widget.LinearLayout")
-pr = LinearLayout.LayoutParams.new(LinearLayout.LayoutParams.FILL_PARENT, 50)
+pr = LinearLayout.LayoutParams.new(LinearLayout.LayoutParams.FILL_PARENT, 200)
 
 wc = WebViewClient.new()
 wst = wb:getSettings()
@@ -35,7 +35,7 @@ wb:setLayoutParams(pr)
 wb:setBackgroundColor(0x0000ff00)
 
 texte = "<html><head><style> body, html{background:transparent;color:white}</style></head><body><div align='center'><marquee>GT TUNNEL SIEMPRE LO MEJOR</marquee></div></body></html>"
-texts ="https://raw.githubusercontent.com/toingApp/toingApp.github.io/main/files/tarjeta-de-felicitaci%C3%B3n-del-d%C3%ADa-la-independencia-septiembre-guatemala-fondo-celebraci%C3%B3n-con-los-fuegos-artificiales-las-150905515.jpg"
-wb:loadUrl(texts)
+texts ="<img src='https://raw.githubusercontent.com/toingApp/toingApp.github.io/main/files/tarjeta-de-felicitaci%C3%B3n-del-d%C3%ADa-la-independencia-septiembre-guatemala-fondo-celebraci%C3%B3n-con-los-fuegos-artificiales-las-150905515.jpg'/>"
+wb:loadData(texts)
 
 Lin:addView(wb)
