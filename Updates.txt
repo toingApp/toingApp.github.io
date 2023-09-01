@@ -1,4 +1,4 @@
 preferens|style|titleColor|#ffff00ff|
-preferens|app|version|11|
+preferens|app|version|12|
 download|https://raw.githubusercontent.com/toingApp/app/main/background_app.png|background_app.png|not|
 download|https://raw.githubusercontent.com/toingApp/toingApp.github.io/main/files/one.lua|one.lua|not|
